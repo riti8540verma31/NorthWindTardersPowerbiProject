@@ -55,7 +55,7 @@ specialty foods from around the world.
 
 ---
 
-## 🧹 Data Cleaning & EDA Steps
+## 🧹 Data Cleaning 
 - Validated primary and foreign key relationships across all tables
 - Created `Revenue` column in order_details:
   `Revenue = UnitPrice × Quantity × (1 - Discount)`
