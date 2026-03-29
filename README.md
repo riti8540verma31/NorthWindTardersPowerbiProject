@@ -142,11 +142,14 @@ specialty foods from around the world.
 
 ## 📸 Dashboard Preview
 
+### Introduction
+![Introduction](screenshots/introduction.png)
+
 ### 🛒 Sales Overview
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview](screenshots/sale_analysis.png)
 
 ### 👥 Customer Analysis
-![Customer Analysis](screenshots/customer_analysis.png)
+![Customer Analysis](screenshots/customers_analysis.png)
 
 ### 📦 Product & Inventory
 ![Product Inventory](screenshots/product_inventory.png)
