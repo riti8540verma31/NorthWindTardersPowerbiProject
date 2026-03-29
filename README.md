@@ -1,4 +1,4 @@
-# 🛒 Northwind Traders — Sales Analysis Power BI Project
+#  Northwind Traders — Sales Analysis Power BI Project
 
 ---
 
