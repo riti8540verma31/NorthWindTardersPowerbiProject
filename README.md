@@ -30,19 +30,12 @@ specialty foods from around the world.
 | Table | Description |
 |-------|-------------|
 | **Customers** | Stores customer information including customer ID, company name, contact name, contact title, address, city, region, postal code, country, phone and fax |
-
 | **Employees** | Stores employee details including employee ID, name, title, title of courtesy, birth date, hire date, address, city, region, country, home phone, extension, and reporting structure |
-
 | **Orders** | Stores order information including order ID, customer ID, employee ID, order date, required date, shipped date, ship via, freight, ship name and shipping address details |
-
 | **Order Details** | Stores detailed line items for each order including order ID, product ID, unit price, quantity and discount applied |
-
 | **Products** | Stores product information including product ID, product name, supplier ID, category ID, quantity per unit, unit price, units in stock, units on order, reorder level and discontinuation status |
-
 | **Suppliers** | Stores supplier information including supplier ID, company name, contact name, contact title, address, city, region, postal code, country, phone, fax and home page |
-
 | **Shippers** | Stores shipping company details including shipper ID, company name and phone number |
-
 | **Categories** | Stores product category information including category ID, category name and description |
 
 ---
