@@ -146,13 +146,13 @@ specialty foods from around the world.
 ![Introduction](screenshots/introduction.png)
 
 ### 🛒 Sales Overview
-![Sales Overview](screenshots/sale_analysis.png)
+![Sales Analysis](screenshots/sale_analysis.png)
 
 ### 👥 Customer Analysis
-![Customer Analysis](screenshots/customers_analysis.png)
+![Customers Analysis](screenshots/customers_analysis.png)
 
 ### 📦 Product & Inventory
-![Product Inventory](screenshots/product_inventory.png)
+![Product Analysis](screenshots/product_analysis.png)
 
 ### 👔 Employee Analysis
 ![Employee Analysis](screenshots/employee_analysis.png)
