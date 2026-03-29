@@ -146,7 +146,7 @@ specialty foods from around the world.
 ![Introduction](screenshots/introduction.png)
 
 ### 🛒 Sales Overview
-![Sales Analysis](screenshots/sale_analysis.png)
+![Sales Analysis](screenshots/sales_analysis.png)
 
 ### 👥 Customer Analysis
 ![Customers Analysis](screenshots/customers_analysis.png)
