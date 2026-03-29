@@ -27,7 +27,7 @@ specialty foods from around the world.
 
 ### 📋 Tables Used
 
-| Table | Description 
+| Table | Description |
 |-------|-------------|
 | **Customers** | Stores customer information including customer ID, company name, contact name, contact title, address, city, region, postal code, country, phone and fax |
 
